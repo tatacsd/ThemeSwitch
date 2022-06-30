@@ -10,7 +10,7 @@
 	- [**Colors:**](#colors)
 
 
-<br><br><br>
+<br>
 
 # 💻 About the challenge
 
