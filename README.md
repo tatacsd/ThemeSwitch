@@ -17,7 +17,9 @@
 In this challenge, we had to develop a page with a toggle button which alternates the page theme between dark and light mode using only javascript, html, and css.
 
 ## Layout
- Add preview here
+![switch](https://user-images.githubusercontent.com/29147847/176740914-85069cc6-8724-4cd5-9382-0cd4aca43e74.gif)
+
+
 
 The team rocketseat provided a Figma template for the design [here](https://www.figma.com/file/yJ0kcX1684XPoyJnUf1K6J/DD-Theme-Switcher/duplicate) 
 
