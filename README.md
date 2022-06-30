@@ -1,11 +1,20 @@
-# Challenge: Theme Switcher
+<h1>Challenge: Theme Switcher</h1>
 
 ## **Summary**
 
+- [💻 About the challenge](#-about-the-challenge)
+	- [Layout](#layout)
+- [🚀 **Techs**](#-techs)
+- [✅ **Requirements**](#-requirements)
+- [🎨 Style Guide](#-style-guide)
+	- [**Colors:**](#colors)
+
+
+<br><br><br>
+
 # 💻 About the challenge
 
----
-In this challenge, we had to develop a page with a toggle button which alternates the page theme between dark and light mode.
+In this challenge, we had to develop a page with a toggle button which alternates the page theme between dark and light mode using only javascript, html, and css.
 
 ## Layout
  Add preview here
@@ -14,8 +23,6 @@ The team rocketseat provided a Figma template for the design [here](https://www.
 
 # 🚀 **Techs**
 
----
-
 - HTML
 - CSS
 - JavaScript
@@ -23,7 +30,6 @@ The team rocketseat provided a Figma template for the design [here](https://www.
 
 # ✅ **Requirements**
 
----
 
 - It should change the page theme when you click the toggle button;
 - It should have an icon transition between light and dark mode;
@@ -35,6 +41,15 @@ The team rocketseat provided a Figma template for the design [here](https://www.
 
 # 🎨 Style Guide
 
----
 
 ## **Colors:**
+
+``` css
+:root {
+	--dark: #292C35;
+	--light: #F1F1F1;
+	--label: #111;
+}
+```
+
+
