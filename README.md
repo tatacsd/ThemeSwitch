@@ -14,7 +14,7 @@
 
 # 💻 About the challenge
 
-In this challenge, we had to develop a page with a toggle button which alternates the page theme between dark and light mode using only javascript, html, and css.
+In this challenge, we had to develop a page with a toggle button which alternates the page theme between dark and light mode using only javascript, html, and css. It also had a bonus challenge to add the theme state to a local storage and set the text color according to the selected theme.
 
 ## Layout
 ![switch](https://user-images.githubusercontent.com/29147847/176740914-85069cc6-8724-4cd5-9382-0cd4aca43e74.gif)
