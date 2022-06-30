@@ -2,8 +2,46 @@
 	--dark: #292C35;
 	--light: #F1F1F1;
 	--label: #111;
+	--circle: #white;
 }
 
-body {
-	background: var(--dark);
+.switcher {
+	width: 14rem;
+	height: 6.5rem;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
 }
+
+.label {
+	width: 13rem;
+	height: 6rem;
+	top: 0.25rem;
+	left: 0.25rem;
+	background-color: var(--label);
+	border-radius: 3.6875rem;
+}
+
+.moon {
+	width: 6.5rem;
+	height: 6rem;
+	src: url(./public/images/moon.svg);
+}
+
+
+.sun {
+	width: 6.5rem;
+	height: 6rem;
+	src: url(./public/images/sun.svg);
+}
+
+.circle {
+	position: absolute;
+	width: 5.5rem;
+	height: 5.5rem;
+	top: 0.25rem;
+	border-radius: 50%;
+	background-color: var(--light);
+}
+
